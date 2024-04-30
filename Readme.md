@@ -22,7 +22,7 @@
   
 # Ansh Jain's Portfolio
 
-Welcome to my personal portfolio! You can view my portfolio live at [Tushar Tak's Portfolio](https://jansh7784.github.io/portfolio-A-Z/).
+Welcome to my personal portfolio! You can view my portfolio live at [Ansh Jain's Portfolio](https://jansh7784.github.io/portfolio-A-Z/).
 
 ## About Me ℹ️
 Dynamic and results-oriented B.Tech student from Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT) Jaipur, specializing in software development. Proficient in programming languages such as C, C++, and Java, with a keen interest in leveraging technology to drive innovation. Seeking to apply internship experiences to contribute effectively to dynamic projects within a progressive organization.
