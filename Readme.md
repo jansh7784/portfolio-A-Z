@@ -1,11 +1,11 @@
 # Personal Portfolio 🔥
-> https://tushartak17.github.io/Portfolio/
+> https://jansh7784.github.io/portfolio-A-Z/
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Tushartak17)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://tushartak17.github.io/Portfolio/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/tushartak)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/jansh7784)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://jansh7784.github.io/portfolio-A-Z/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ansh--jain)
 
 
 ### Website Preview
@@ -20,9 +20,9 @@
 #### Projects Page
 <img src="website_images/ProjectPage.png" width="900">
   
-# Tushar Tak's Portfolio
+# Ansh Jain's Portfolio
 
-Welcome to my personal portfolio! You can view my portfolio live at [Tushar Tak's Portfolio](https://tushartak17.github.io/Portfolio/).
+Welcome to my personal portfolio! You can view my portfolio live at [Tushar Tak's Portfolio](https://jansh7784.github.io/portfolio-A-Z/).
 
 ## About Me ℹ️
 Dynamic and results-oriented B.Tech student from Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT) Jaipur, specializing in software development. Proficient in programming languages such as C, C++, and Java, with a keen interest in leveraging technology to drive innovation. Seeking to apply internship experiences to contribute effectively to dynamic projects within a progressive organization.
