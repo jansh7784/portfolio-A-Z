@@ -24,41 +24,57 @@
 
 Welcome to my personal portfolio! You can view my portfolio live at [Ansh Jain's Portfolio](https://jansh7784.github.io/portfolio-A-Z/).
 
-## About Me ℹ️
-Dynamic and results-oriented B.Tech student from Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT) Jaipur, specializing in software development. Proficient in programming languages such as C, C++, and Java, with a keen interest in leveraging technology to drive innovation. Seeking to apply internship experiences to contribute effectively to dynamic projects within a progressive organization.
+# About Me ℹ️
+Dynamic and results-oriented B.Tech student from Swami Keshwanand Institute of Technology (SKIT), Jaipur, specializing in Information Technology. Proficient in programming languages such as Java, Python, and C/C++, with a keen interest in leveraging technology to drive innovation. Seeking to apply internship experiences to contribute effectively to dynamic projects within a progressive organization.
 
 ## Projects 🚀
+### NFT Bricks
+- Developed NFT BRICKS, a modern real estate website with responsive design using HTML, CSS, and JavaScript.
+- Integrated blockchain technology to enable fractional property transactions, enhancing accessibility and inclusivity in real estate investments.
+- Explore the project live at [NFT Bricks](https://jansh7784.github.io/NFT-Bricks/).
+
+### Deepfake Detection
+- Engineered a Deepfake Detection Model using CNN and LSTM, achieving an 85% accuracy rate on test data.
+- Employed advanced image processing methods to optimize input data for deep learning models, enhancing detection accuracy.
+
 ### Hospital Management System
-- Contributed as a collaborative team member in developing a robust hospital management system.
-- Employed JavaScript for backend development and HTML/CSS for frontend, utilizing Visual Studio Code as the integrated development environment.
-- Spearheaded backend development, ensuring seamless data management and API integration for enhanced functionality.
-
-### Phone Directory
-- Designed and developed a phone directory app using advanced Data Structures and Algorithms, emphasizing linked lists.
-- Features include contact list display, addition, editing, deletion, and sorting.
-- Leveraged C language extensively, honing skills in C programming, Data Structures, and algorithmic problem-solving.
-
-## Education 🎓
-- Bachelor of Technology | 2022-2026
-  Pursuing B.Tech in Computer Science at Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT), Jaipur, Rajasthan
-
-- XII Rajasthan Board of Secondary Education (RBSE) | 2021-2022
-  The Castle Convent Sr. Secondary School, Jaipur, Rajasthan
+- Designed a Hospital Management System facilitating patient, admin, and doctor management.
+- Implemented a comprehensive Hospital ERP system capable of various tasks using web technologies.
 
 ## Experiences 💼
-- **Hackathon and Ideathon Participation**
-  - Actively engaged in Hackathons and Ideathons across prestigious institutions including IIT Jodhpur, JECRC University Jaipur, and Vivekanand Global University.
-  - Achieved notable success at JECRC University's hackathon, securing the 9th position out of 80+ teams with the Hospital Management System project.
-  - Demonstrated adept problem-solving and teamwork skills.
+- **Secretary, IEEE Computer Society**
+  - Supported chapter officers in planning and executing events, such as expert talks and ideathons for entrepreneurs.
+  - Developed and honed communication skills through experience as an event anchor.
 
-- **Volunteering, Coordination, and Leadership Experience**
-  - Demonstrated leadership and coordination prowess through active involvement as a CodeFiesta Club member and volunteer coordinator.
-  - Leveraged leadership skills in organizing major cultural events like Clash Of Bands, fostering a collaborative environment conducive to team success.
+- **HR Intern**
+  - Developed compelling job postings for open roles, ensuring clear communication of job requirements.
+  - Acquired insights into Applicant Tracking Systems (ATS), improving recruitment processes by understanding resume shortlisting mechanisms.
 
+- **Python and ML Industrial Trainee**
+  - Completed 15-day industrial training at SKIT, Jaipur, emphasizing real-world Python applications.
+  - Demonstrated proficiency in core Python concepts by developing a Tic Tac Toe game from scratch.
+    
+## Education 🎓
+- Bachelor of Technology | 2022-2026
+  Pursuing B.Tech in Information Technology at Swami Keshvanand Institute of Technology, Management & Gramothan (SKIT), Jaipur, Rajasthan
+
+- XII Rajasthan Board of Secondary Education (RBSE) | 2021-2022
+  Anand Public School, Sawai Madhapour, Rajasthan
+  
 ## Skills 💻
-- Programming Languages: Proficient in C, C++, and Java, with demonstrated expertise in crafting efficient and scalable solutions.
-- Data Structures & Algorithms: Demonstrated competence in enhancing computational efficiency and problem-solving capabilities.
-- AI Fundamentals: Completed Generative AI Fundamentals program at Google and Intermediate Problem Solving certification at HackerRank.
+- Programming Languages: Proficient in Java, Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS.
+- Libraries: pandas, NumPy, Matplotlib, Pytorch.
+- Soft Skills: Communication, Teamwork, Problem-solving, Adaptability, Leadership, Time Management, Anchoring.
+
+## Extra Curricular Activities and Leadership Qualities 🌟
+- Prometeo IITJ (Quizathon Winner 2022)
+- GIT Codefiesta 1.0 (2022)
+- Innovo 8 JECRC Hackathon (2023)
+- Code Red Triathlon 3.0 (2023)
+- Mantra RWA Blockchain Hackathon (2024)
+- Team Leader, CodeRed 3.0 Hackathon (2023): Led team to 3rd position among 180 teams, fostering exceptional coordination and teamwork.
+- Coordination Lead, RAWAZ Cultural Event: Successfully led a 24-member team, ensuring the event’s resounding success through effective leadership.
+
 
 ## Contact 📧
 - 📧 Email: jansh7784@gmail.com
