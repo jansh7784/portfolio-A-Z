@@ -40,6 +40,7 @@ Dynamic and results-oriented B.Tech student from Swami Keshwanand Institute of T
 ### Hospital Management System
 - Designed a Hospital Management System facilitating patient, admin, and doctor management.
 - Implemented a comprehensive Hospital ERP system capable of various tasks using web technologies.
+- - Explore the project live at [Health-Connect](https://jansh7784.github.io/Health-Connects/).
 
 ## Experiences 💼
 - **Secretary, IEEE Computer Society**
